@@ -1,2 +1,2 @@
 # maxxxxxx0point2.github.io
-Website
+This is a website for my business, hardcoded with html and css.
