@@ -1,8 +1,11 @@
 body{
-
+ background-image: url(background.png);
 }
 .head{
-
+  width: 100%;
+}
+.headp{
+  width: 100%;
 }
 nav{
 
