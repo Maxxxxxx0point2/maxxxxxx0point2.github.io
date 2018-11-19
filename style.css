@@ -1,6 +1,6 @@
 body{
- background-image: url(background2.png);
- background-repeat: no-repeat;
+ background-image: url(background4.png);
+ background-repeat:repeat-y;
  background-size: 100%;
  background-attachment: fixed;
 }
