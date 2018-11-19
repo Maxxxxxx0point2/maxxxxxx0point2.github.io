@@ -1,14 +1,17 @@
 body{
- background-image: url(background.png);
+ background-image: url(background2.png);
+ background-repeat: no-repeat;
+ background-size: 100%;
+ background-attachment: fixed;
 }
 .head{
   width: 100%;
 }
 .headp{
-  width: 100%;
+ width: 100%;
 }
 nav{
-
+  text-align: center;
 }
 .body{
 
