@@ -14,9 +14,32 @@ nav{
   text-align: center;
 }
 .body{
+ color: white;
+ text-align: center;
 
+}
+/*.links{
+  background-color: black;
+  text-align: center;
+  width: 10%;
+  position: relative;
+  top: 100px;
+  right: -675px;
+} */
+a:link{color: white;}
+a:visited{color: cyan;}
+.image{
+}
+.image2{
+}
+.image23{
+  width: 40%;
+  padding-left: 450px;
 }
 
 .footer{
-  position:
+  position:relative;
+  color: white;
+  text-align: center;
+  top: 200px;
 }
